@@ -1,0 +1,12 @@
+streamlit
+gTTS
+transformers>=4.52.4
+torch
+sentencepiece
+accelerate
+safetensors
+huggingface_hub
+numpy
+peft
+soundfile
+torchaudio
